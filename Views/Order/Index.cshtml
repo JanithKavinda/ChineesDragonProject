@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Asp.netCoreChineesDragon.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    int iq = 0;
+    int pr = 0;
+    int can = 0;
+}
+@foreach (var item in Model)
+{
+    if(item.OrderStatuses == OrderStatuses.InQueue) {
+        iq++;
+    } else if (item.OrderStatuses == OrderStatuses.Preparing)
+    {
+        pr++;
+    } else if (item.OrderStatuses == OrderStatuses.Canceled)
+    {
+        can++;
+    }
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-2">
+            <form>
+                <a class="btn btn-danger" asp-area="" asp-controller="Home" asp-action="Index">In Queue - @iq</a>
+            </form>
+        </div>
+        <div class="col-12 col-md-2">
+            <form>
+                <a class="btn btn-primary ml-3" asp-area="" asp-controller="Orders" asp-action="Orders">Prepared - @pr</a>
+            </form>
+        </div>
+        <div class="col-12 col-md-2">
+            <form>
+                <a class="btn btn-primary ml-3" asp-area="" asp-controller="Orders" asp-action="Orders">Cancelled - @can</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+    <h4 class="mt-4">Order Register</h4>
+    <a asp-action="AddOrEdit" class="btn btn-outline-success"><i class="far fa-plus-square"></i> Order</a>
+    <hr />
+
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 mr-5">
+        @foreach (var item in Model)
+        {
+            <div class="col mb-4">
+                <div class="card" style="width: 18rem;">
+                    <div class="container bg-danger">
+                        <div class="row">
+                            <div class="col">
+                                <p class="card-text">@Html.DisplayFor(modelItem => item.OrderType)</p>
+
+                            </div>
+                            <div class="col">
+                                <p class="card-text text-right">@Html.DisplayFor(modelItem => item.OrderDateTime)</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="container bg-danger mt-1">
+                        <div class="row">
+                            <div class="col">
+                                <p class="card-text text-right">@Html.DisplayFor(modelItem => item.OrderedThrough)</p>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvhIoCYN6-8OcIHmJS7z9owCK5b9t2-RqyAXVqv55TH0MXfauow7m0pzc6zauDjMnwmA&usqp=CAU" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayNameFor(model => item.ReferanceNumber) : @Html.DisplayFor(modelItem => item.ReferanceNumber)</h5>
+
+
+
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.OrderItems)</p>
+
+
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.OrderStatuses)</p>
+
+                        <a class="btn btn-primary" asp-action="AddOrEdit" asp-route-id="@item.OrderId">Edit Order</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.OrderId" onclick="return confirm('Are you sure to delete this record?')">Delete Order</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>

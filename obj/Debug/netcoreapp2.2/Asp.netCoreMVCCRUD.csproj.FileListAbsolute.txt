@@ -1,0 +1,67 @@
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.deps.json
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.runtimeconfig.json
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.runtimeconfig.dev.json
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.dll
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.csprojAssemblyReference.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.csproj.CoreCompileInputs.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorAssemblyInfo.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorAssemblyInfo.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.AssemblyInfoInputs.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.AssemblyInfo.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.TagHelpers.input.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.TagHelpers.output.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorCoreGenerate.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorTargetAssemblyInfo.cache
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorTargetAssemblyInfo.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.pdb
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.Views.dll
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.Views.pdb
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.Views.pdb
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.dll
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.pdb
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.csproj.CopyComplete
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Order/Index.g.cshtml.cs
+F:/profession/CodAffection/Asp.Net Core MVC/CRUD/project/Asp.netCoreChineesDragon/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Order/AddOrEdit.g.cshtml.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.csproj.AssemblyReference.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.AssemblyInfoInputs.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.AssemblyInfo.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.csproj.CoreCompileInputs.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorAssemblyInfo.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorAssemblyInfo.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.TagHelpers.input.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.TagHelpers.output.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.dll
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.pdb
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorCoreGenerate.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.deps.json
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.runtimeconfig.json
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.runtimeconfig.dev.json
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.dll
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.pdb
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.Views.dll
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/bin/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.Views.pdb
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Order/AddOrEdit.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Order/Index.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorTargetAssemblyInfo.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.RazorTargetAssemblyInfo.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.Views.pdb
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.genruntimeconfig.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp2.2/Asp.netCoreChineesDragon.csproj.CopyComplete

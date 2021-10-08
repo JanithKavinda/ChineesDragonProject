@@ -1,0 +1,6 @@
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp3.1/Asp.netCoreChineesDragon.csproj.AssemblyReference.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp3.1/Asp.netCoreChineesDragon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp3.1/Asp.netCoreChineesDragon.AssemblyInfoInputs.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp3.1/Asp.netCoreChineesDragon.AssemblyInfo.cs
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp3.1/Asp.netCoreChineesDragon.csproj.CoreCompileInputs.cache
+/Users/janithattanayaka/Desktop/restuent-app-mvc/Asp.netCoreChineesDragon/obj/Debug/netcoreapp3.1/Asp.netCoreChineesDragon.MvcApplicationPartsAssemblyInfo.cache

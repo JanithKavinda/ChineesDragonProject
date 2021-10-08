@@ -1,0 +1,77 @@
+﻿@model Asp.netCoreChineesDragon.Models.Order
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4>Order Form</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="AddOrEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="OrderId" />
+
+
+            <div class="form-group">
+                <label asp-for="ReferanceNumber" class="control-label"></label>
+                <input asp-for="ReferanceNumber" class="form-control" />
+                <span asp-validation-for="ReferanceNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrderedThrough" class="control-label"></label>
+                <select asp-for="OrderedThrough" class="form-control">
+                    <option selected>Open this select menu</option>
+                    <option value="0">Online</option>
+                    <option value="1">POS</option>
+                </select>
+                <span asp-validation-for="OrderedThrough" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrderType" class="control-label"></label>
+                <select asp-for="OrderType" class="form-control">
+                    <option selected>Open this select menu</option>
+                    <option value="0">Dynein</option>
+                    <option value="1">TakeAway</option>
+                </select>
+                <span asp-validation-for="OrderType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrderItems" class="control-label"></label>
+                <select asp-for="OrderItems" class="form-control">
+                    <option selected>Open this select menu</option>
+                    <option value="0">SeaFoodRice</option>
+                    <option value="1">ChiliChicken Curry</option>
+                    <option value="2">SpicyNoodle</option> 
+                </select>
+                <span asp-validation-for="OrderItems" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrderStatuses" class="control-label"></label>
+                <select asp-for="OrderStatuses" class="form-control">
+                    <option selected>Open this select menu</option>
+                    <option value="0">InQueue</option>
+                    <option value="1">Preparing</option>
+                    <option value="2">OrderReady</option>
+                    <option value="3">PickedUp</option>
+                    <option value="4">Canceled</option>
+                </select>
+                <span asp-validation-for="OrderStatuses" class="text-danger"></span>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <input type="submit" value="Submit" class="btn btn-primary btn-block" />
+                </div>
+                <div class="form-group col-md-6">
+                    <a asp-action="Index" class="btn btn-secondary btn-block"><i class="fa fa-table"></i> Back to List</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
